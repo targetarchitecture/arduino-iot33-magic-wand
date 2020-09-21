@@ -9,3 +9,5 @@ Classification takes around 5ms, with the confidence levels displayed on the pag
 Considering the training sets are only 10 repetitions of each of the two spells "Circle" and "Zoro" and only 20 sets of the wand resting and being held. The accuracy seems remarkably high with only a small amount of training data for an object moving around in free space.
 
 I still have much to learn, as this was a time-boxed project of 30 days. 
+
+You can read more at my website [Scratching the surface of AI](https://www.targetarchitecture.info/scratching-the-surface-of-ai)
